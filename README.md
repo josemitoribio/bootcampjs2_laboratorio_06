@@ -17,5 +17,5 @@ En esta práctica vamos a refactorizar el código para que sea más mantenible y
 - Asegúrate que sigue todo funcionando y no salen errores por consola.
 
 #### Opcional - Objeta partida: 
-- Crea un objeto partida y su método de ayuda para crear una partida?
+- Crea un objeto partida y su método de ayuda para crear una partida.
 - Asegúrate que sigue todo funcionando y no salen errores por consola.
